@@ -13,6 +13,6 @@ de la parroquia. Proyecto de la materia Programación Avanzada (Yachay Tech).
 3. Clonar el repo y abrir la carpeta desde Unity Hub (Add project from disk).
 
 ## Equipo
-- Emma (nombre completo)
-- Integrante 2
-- Integrante 3
+- Emma Vargas 
+- Yomi Caizaluisa
+- Hilary Chaglla
