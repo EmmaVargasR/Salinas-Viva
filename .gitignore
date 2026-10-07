@@ -116,3 +116,10 @@ InitTestScene*.unity*
 
 # Configuración local de VS Code
 .vscode/
+
+
+# Auxiliares de QGIS
+*.aux.xml
+*.qgz~
+GIS/*.hdr
+GIS/*.prj
